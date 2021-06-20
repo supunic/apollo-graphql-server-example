@@ -1,4 +1,13 @@
+
+# apollo-aws-lambda-serverless-sample
+
+## setup
 ```sh
 $ yarn install
-$ node index.js
+$ yarn start
+```
+
+## deploy
+```sh
+$ yarn build
 ```
